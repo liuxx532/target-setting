@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.comall.pg.targetsetting"
+    },
+    "jhipsterVersion": "4.2.0",
+    "baseName": "TargetSetting",
+    "packageName": "com.comall.pg.targetsetting",
+    "packageFolder": "com/comall/pg/targetsetting",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "8021b3f59c188ee54cc9574af5e8114fd592043e",
+    "enableTranslation": false,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "clientPackageManager": "yarn"
+  }
+}
